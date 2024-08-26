@@ -3,7 +3,7 @@
 
 <h2>Files</h2>
 <ul>
-    <li><strong>PlantCoPerformanceAnalysis.pbix:</strong> The Power BI report file.</li>
+    <li><strong><a href="https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=71b778b1-0a13-4b09-bd42-94367e4d13a2&pbi_source=mobile_android&groupObjectId=44bce590-1665-4d90-ac94-108376c9d1e6&appId=&reportObjectId=d3064c8e-092e-40fc-a788-daa6a8c2d6e9&reportPage=505627fb034da7483c8e&bookmarkGuid=920abace-058d-4107-b960-c0e10823e45b&fullScreen=0">PlantCoPerformanceAnalysis.pbix</a></strong> The Power BI report file.</li>
     <li><strong>DataSource/:</strong> Folder with data source files (e.g., CSV, Excel).</li>
 </ul>
 
