@@ -3,7 +3,7 @@
 
 <h2>Files</h2>
 <ul>
-    <li><strong><a href="https://app.powerbi.com/links/36p6cf_PUC?ctid=71b778b1-0a13-4b09-bd42-94367e4d13a2&pbi_source=linkShare">PlantCoPerformanceAnalysis.pbix</a></strong> The Power BI report file.</li>
+    <li><strong>PlantCoPerformanceAnalysis.pbix</strong> The Power BI report file.</li>
     <li><strong>DataSource/:</strong> Folder with data source files (e.g., CSV, Excel).</li>
 </ul>
 
