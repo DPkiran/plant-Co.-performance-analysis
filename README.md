@@ -9,6 +9,9 @@
 
 <h2>Getting Started</h2>
 
+<p><strong>Explore the Power BI Dashboard:</strong> Check out the interactive dashboard <a href="https://app.powerbi.com/links/36p6cf_PUC?ctid=71b778b1-0a13-4b09-bd42-94367e4d13a2&pbi_source=linkShare" target="_blank">here</a> for an overview of key insights and visualizations.</p>
+
+
 <h3>Screenshots of the Report</h3>
 
 <p><strong>Detailed View</strong></p>
